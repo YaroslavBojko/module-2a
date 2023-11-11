@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    int apartmentPrice = 5000000;
+    int shoeSize = 42;
+    int numberAnimalsInZoo = 356;
+    int newProductPrices = 5000;
 }
